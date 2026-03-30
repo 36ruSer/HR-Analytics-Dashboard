@@ -43,9 +43,7 @@
 
 ## 📈 Визуализации дашборда
 
-![HR Analytics Dashboard](screenshots/dashboard_overview.PNG)
-
-*Дашборд включает: KPI-карточки, текучесть по департаментам, должностям, переработкам, возрасту, полу, а также интерактивные фильтры.*
+![HR Analytics Dashboard](HR-Analytics-Dashboard/screenshots/dashboard_overview.PNG)
 
 *Дашборд включает: KPI-карточки, текучесть по департаментам, должностям, переработкам, возрасту, полу, а также интерактивные фильтры.*
 
